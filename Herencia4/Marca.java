@@ -1,3 +1,6 @@
+//Viridiana Leal Ramos
+//Herencia 4- Clase Negocio
+//Con lo visto en la clase realizar de tarea el mapa de relación de clases
 package Herencia4;
 import java.util.Scanner;
 
